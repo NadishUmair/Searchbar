@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.search{
+    margin-top: 2rem;
+    text-align: center;
+}
+#root{
+    display: flex;
+    margin-top: 4rem;
+    padding: 5rem;
+   
+}
